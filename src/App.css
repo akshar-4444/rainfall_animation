@@ -1,0 +1,11 @@
+.App {
+  height: 100dvh; /* Dynamic viewport height */
+  width: 100dvw;  /* Dynamic viewport width */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/025/934/704/large_2x/abstract-neon-light-gaming-background-generated-by-ai-free-photo.jpg");
+  background-size: cover; /* Cover the entire container, maintaining aspect ratio */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Prevent tiling/repeating of the image */
+}
